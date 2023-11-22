@@ -1,6 +1,6 @@
 import React from 'react'
 import Dummy from './Dummy'
-// import 'bootstrap/dist/css/bootstrap.css';
+
 import "bootstrap/dist/css/bootstrap.min.css";
 import Shoes from './HeroHeader';
 import ShoesHeader from './HeroSection';

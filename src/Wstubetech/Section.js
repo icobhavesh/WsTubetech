@@ -8,7 +8,7 @@ const Section = () => {
     <div className=" max-w-[1240px] py-[0px] block  mx-auto 
      md:grid grid-cols-2  ">
       <div className="col-span-1 w-[80%] m-10 mx-auto text-center ">
-        <img className="w-[300px] m-auto " src={laptop}></img>
+        <img className="w-[300px] m-auto " src={laptop} alt="" > </img>
       </div>
       <div className="text-center m-auto col-span-1 justify-center w-full">
         <h1>learn with me</h1>
