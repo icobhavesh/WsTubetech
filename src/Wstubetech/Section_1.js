@@ -6,7 +6,7 @@ const Section_1 = () => {
       <div className="max-w-[1240px] md:grid grid-cols-2  m-auto">
         <div className="col-span-1 ">
           <img className=" w-[3
-            00px] m-auto" src={laptop}></img>
+            00px] m-auto" src={laptop} alt=""></img>
         </div>
         <div className="col-span-1 md:mt-[110px] md:mr[200px] justify-center text-center">
           <div>
